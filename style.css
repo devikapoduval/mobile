@@ -1,0 +1,68 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-color: #48fab6;
+}
+
+.header_div{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 8, 58);
+}
+
+.header_div img{
+    width:100px;
+}
+
+.main_div{
+    background-color: rgb(188, 248, 225);
+    padding: 10px;
+    margin-top: 40px;
+    border: 3px,whitesmoke;
+}
+
+.main_div label{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 19px rgb(0, 0, 0);
+    width: 310px;
+}
+
+#camera, #result{
+width: 310px;
+height: 300px; 
+box-shadow: 5px 5px 19px rgb(0, 0, 0);
+border: 2px dashed black;
+}
+
+
+.main_div button{
+    width: 310px;
+    box-shadow: 5px 5px 19px rgb(0, 0, 0);
+    border: 1px dotted darkblue;
+    font-size: 16px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div img{
+width: 70px;
+}
+
+.footer_div h4{
+background-color: aliceblue;
+padding: 5px;
+border-radius: 10px;
+box-shadow: 5px 5px 19px rgb(0, 0, 0);;
+}
+
+.copy_right-footer{
+   background-color: rgb(228, 171, 193); 
+   position: fixed;
+   line-height: 3;
+   width: 100%;
+   bottom: 0;
+   color: rgb(0, 0, 0);
+   text-align: center;
+}
